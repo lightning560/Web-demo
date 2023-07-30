@@ -1,0 +1,8 @@
+
+export const appConfig = {
+    NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY: process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,
+    BASE_URL: process.env.NEXT_PUBLIC_BASE_URL,
+    FEED_URL: process.env.NEXT_PUBLIC_FEED_URL,
+    COMMENT_URL: process.env.NEXT_PUBLIC_COMMENT_URL,
+    MALL_URL: process.env.NEXT_PUBLIC_MALL_URL,
+};

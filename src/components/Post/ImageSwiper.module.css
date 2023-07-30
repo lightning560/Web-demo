@@ -1,0 +1,4 @@
+.postImageSwiperThumbSlide .swiper-slide-thumb-active {
+    opacity: 1;
+    border: solid red;
+}
